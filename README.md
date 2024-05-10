@@ -49,6 +49,46 @@ Tudo feito do passo 1, selecione a primerira opção e clique em ENTER
 
  ---
 
- 3. Passo
+ 3. Passo (Prosseguimento)
 
+ ![alt text](image-6.png)
+
+ Espere a instalação terminar...
  
+![alt text](image-7.png)
+
+Clique em "Proximo".
+
+![alt text](image-8.png)
+
+Clique em "Iniciar".
+
+![alt text](image-9.png)
+
+Pode seguir clicando em "Proximo".
+
+![alt text](image-10.png)
+
+Verifique se as suas informações estão corretas. Caso esteja, clique em "Proximo".
+
+![alt text](image-11.png)
+
+Agora, preencha os dados de sua escolha  e clique em "Proximo".
+
+![alt text](image-12.png)
+
+Depois da instalação ser concluída, clique em "Finalizar".
+
+Ao fazer isso, você será encainhado para essa pagina:
+
+![alt text](image-13.png)
+
+Pressione ENTER para terminar a instalação.
+
+---
+
+4. Passo
+
+Depois de ter concluido todos os passos, você então concluiu a instalação. Agora aproveite seu novo Sitema Operacional :)
+
+![alt text](image-14.png)
